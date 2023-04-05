@@ -1,0 +1,1 @@
+Working on Odin's Recipe Project. Will be making a basic website with three recipes. Basic html skills such as making lists and a boilerplate will be displayed. Basic CSS skills will be used such as including images and websites. 
