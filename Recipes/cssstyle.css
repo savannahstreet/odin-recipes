@@ -1,0 +1,21 @@
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+ }
+ 
+body{
+   color: rgb(250, 225, 233);
+   background: rgb(164, 193, 248);
+}
+h1{
+   font-size: 55px;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+   
+}
+h2{
+   text-align: center;
+}
